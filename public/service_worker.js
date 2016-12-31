@@ -4,7 +4,7 @@ const CACHE_NAME = 'service_worker_cache';
 
 const CACHE_URLS = [
     './',
-    'index.php'
+    'index.html'
 ];
 
 self.addEventListener('install', function(event) {
