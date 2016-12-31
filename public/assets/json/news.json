@@ -1,0 +1,24 @@
+{
+    "list": [
+        {
+            "slug": "news-slug-1",
+            "title": "News Article",
+            "teaser": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla gravida dolor eu nibh ultricies, sit amet egestas ante euismod. Quisque vel elit mi. Proin vitae lacinia nulla. Sed vel feugiat est. Sed nisi nunc, sagittis id ante semper, fermentum porta quam. Curabitur metus augue, rhoncus sit amet interdum nec, volutpat eu arcu. Vestibulum scelerisque, ex efficitur iaculis imperdiet, nunc urna venenatis urna, at pharetra magna elit non quam..."
+        },
+        {
+            "slug": "news-slug-2",
+            "title": "Another News Article",
+            "teaser": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla gravida dolor eu nibh ultricies, sit amet egestas ante euismod. Quisque vel elit mi. Proin vitae lacinia nulla. Sed vel feugiat est. Sed nisi nunc, sagittis id ante semper, fermentum porta quam. Curabitur metus augue, rhoncus sit amet interdum nec, volutpat eu arcu. Vestibulum scelerisque, ex efficitur iaculis imperdiet, nunc urna venenatis urna, at pharetra magna elit non quam..."
+        },
+        {
+            "slug": "news-slug-3",
+            "title": "And Another One",
+            "teaser": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla gravida dolor eu nibh ultricies, sit amet egestas ante euismod. Quisque vel elit mi. Proin vitae lacinia nulla. Sed vel feugiat est. Sed nisi nunc, sagittis id ante semper, fermentum porta quam. Curabitur metus augue, rhoncus sit amet interdum nec, volutpat eu arcu. Vestibulum scelerisque, ex efficitur iaculis imperdiet, nunc urna venenatis urna, at pharetra magna elit non quam..."
+        },
+        {
+            "slug": "news-slug-4",
+            "title": "4 News Articles Now!",
+            "teaser": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla gravida dolor eu nibh ultricies, sit amet egestas ante euismod. Quisque vel elit mi. Proin vitae lacinia nulla. Sed vel feugiat est. Sed nisi nunc, sagittis id ante semper, fermentum porta quam. Curabitur metus augue, rhoncus sit amet interdum nec, volutpat eu arcu. Vestibulum scelerisque, ex efficitur iaculis imperdiet, nunc urna venenatis urna, at pharetra magna elit non quam..."
+        }
+    ]
+}
