@@ -1,0 +1,29 @@
+/* PAGE */
+
+.content {
+    margin-top: 50px;
+}
+
+/* ANIMATIONS */
+
+.fade-enter-active, .fade-leave-active {
+    transition: opacity .3s
+}
+.fade-enter, .fade-leave-active {
+    opacity: 0
+}
+/* Enter and leave animations can use different */
+
+
+/* durations and timing functions.              */
+.slide-fade-enter-active {
+    transition: all .3s ease;
+}
+.slide-fade-leave-active {
+    transition: all .3s;
+}
+
+.slide-fade-enter, .slide-fade-leave-active {
+    transform: translateX(-50px);
+    opacity: 0;
+}
